@@ -3,6 +3,7 @@ const places = [
   { name: "Ooty", info: "Misty hills" },
   { name: "Jaipur", info: "Pink city" },
   { name: "Munnar", info: "Tea gardens" },
+  {name:"Kodaikanal",info:"Lakes and Mountains"},
 ];
 const gallery = document.querySelector("#gallery");
 places.forEach(function (place) {

@@ -1,0 +1,13 @@
+.error {
+  color: red;
+  display: block;
+  min-height: 1.2em;
+}
+
+input.invalid {
+  border: 2px solid red;
+}
+
+input.valid {
+  border: 2px solid green;
+}
